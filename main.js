@@ -1,4 +1,7 @@
-
+/**
+ * 这是生命游戏主文件
+ * @type {HTMLElement | null}
+ */
 const gameDOM = document.getElementById('gameContainer')
 let gameCanvas;
 let gameContext;
